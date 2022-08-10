@@ -3,6 +3,7 @@ I have three files:
 1- KnapsackProblem.ipynb
 2- Input-sara.txt
 3- Output.sol which is empty and the output will be printed on that 
+
 My program read input file and split the lines for putting them in the argument of my method and print the output in file output.sol. 
 My program “ KnapsackProblem” contains : 
 A. Two classes: 
